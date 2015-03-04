@@ -1,0 +1,2 @@
+2015-02-11 09:43:31,371 [INFO] [main] Socket.IO server starting
+2015-02-11 09:43:31,647 [INFO] [main] Started SocketIOServer [port=4810, heartbeatTimeout=60, heartbeatInterval=1, closeTimeout=60, transports=websocket,flashsocket,xhr-polling,jsonp-polling, ssl=false, alwaysSecureWebSocketLocation=false, headerClientIpAddressName=null]

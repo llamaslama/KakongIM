@@ -1,0 +1,2 @@
+2015-02-28 02:25:28,253 [INFO] [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@43a6684f: startup date [Sat Feb 28 02:25:28 CST 2015]; root of context hierarchy
+2015-02-28 02:25:28,331 [INFO] [main] Loading XML bean definitions from class path resource [spring.xml]

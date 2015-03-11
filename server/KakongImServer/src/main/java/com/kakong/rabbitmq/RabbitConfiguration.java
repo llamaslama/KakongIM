@@ -20,7 +20,7 @@ public class RabbitConfiguration {
 	public ConnectionFactory connectionFactory() {
 
 		CachingConnectionFactory connectionFactory = new CachingConnectionFactory(
-				"119.97.220.38");
+				"127.0.0.1");
 		// apply some config settings:
 		connectionFactory.setUsername("guest");
 		connectionFactory.setPassword("guest");

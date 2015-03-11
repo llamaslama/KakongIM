@@ -55,12 +55,11 @@ const NSString* cid;
     
     [socketIO connectToHost:@"119.97.220.38" onPort:4810];
 //    [socketIO connectToHost:@"192.168.0.100" onPort:4810];
-//    [socketIO connectToHost:@"172.26.141.3" onPort:4810];
+//    [socketIO connectToHost:@"172.16.162.3" onPort:4810];
     
 }
 
 const NSString * A = @"towne";
-
 const NSString * B = @"qi";
 
 # pragma mark -

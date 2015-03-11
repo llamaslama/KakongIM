@@ -53,7 +53,7 @@ public class Recv implements Runnable {
 		// TODO Auto-generated method stub
 		try {
 			ConnectionFactory factory = new ConnectionFactory();
-			factory.setHost("119.97.220.38");
+			factory.setHost("127.0.0.1");
 			Connection connection;
 
 			connection = factory.newConnection();

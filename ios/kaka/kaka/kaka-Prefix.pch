@@ -1,0 +1,42 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#define IOS_VERSION [[[UIDevice currentDevice] systemVersion] floatValue]
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#define NSLocalStringForKey(key) \
+[[[NSBundle mainBundle] localizedInfoDictionary] objectForKey:key]
+
+#define UIColorFromRGB(rgbValue)    [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "SVPullToRefresh.h"
+    #import "EDColor.h"
+    #import "UIView+FLKAutoLayout.h"
+    #import "PPiFlatSegmentedControl.h"
+    #import "NSStrUtil.h"
+    #import "MMDBHelper.h"
+    #import "NSMutableThreadSafeArray.h"
+    #import "NSMutableThreadSafeString.h"
+    #import "NSGCDThread.h"
+    #import "UIView+Global.h"
+    #import "UIColor+setting.h"
+    #import "MBProgressHUD.h"
+    #import "UIImage+GIF.h"
+    #import "SBJson4Writer.h"
+    #import "SBJson4Parser.h"
+    #import "Constants.h"
+#endif
+
+#define MMHOST        @"10.211.64.73"
+#define MMPORT        @10002

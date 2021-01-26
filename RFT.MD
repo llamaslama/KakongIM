@@ -35,7 +35,7 @@ A Brief Summary of My Experience
 
 * 8 years of IOS / Android / React mobile terminal development and management, familiar with the development model and technology evolution of mobile products.
 
-* 3 years of machine learning and Deep Learning Model , and data mining algorithms experience , familiar with Python / PyCharm and related development frameworks embodiment such as ( Pytorch , Keras , Sklearn , LSTM , BERT , Trans , Word2Vec , SVM , TextCNN , LR, etc.), participated in some e- commerce machine recommendation projects.
+* 3 years of machine learning and Deep Learning Model , and data mining algorithms experience , familiar with Pytorch / PyCharm and related development frameworks embodiment such as ( LSTM , BERT , self-attention, Transfomer , Word2Vec , SVM , TextCNN , LR, GDBT, adBoost, PCA, SVD etc.), participated in some machine recommendation projects.
 
 * involved more than the company's strategic-level goals to achieve, Ali RT-Mart into Alibaba's network transformation, providing an output strong technical and management oversight and confirm the project planning and operations management, team building and efforts to enhance team performance, was Responsible for the operation and management of a team of 40+ people.
 

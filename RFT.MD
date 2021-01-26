@@ -16,9 +16,9 @@
 
 `Education` : Hubei Polytechnic University `2002 - 2006`
 
-`Expected salary` : 60 \-70 W/ year
+`Expected salary` : CNY 600k~700k /year
 
-`Current salary` : 40W/ year
+`Current salary` : CNY 400k / year
 
 `Are you in a job` : Resignation ( 2020-11 )
 

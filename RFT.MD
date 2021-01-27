@@ -31,21 +31,19 @@ A Brief Summary of My Experience
 
 * Graduate from Hubei Polytechnic University graduate / Bachelor
 
-* 12 years of development and management experience , worked for Yihaodian, Ali RT-Mart and other well-known Internet companies, have an intimate knowledge of Internet product development processes, familiar with JAVA highly concurrent technical and Jvm memory model.
+* **12 years of development and management experience , worked for Yihaodian, Ali RT-Mart and other well-known Internet companies,** have an intimate knowledge of Internet product development processes, familiar with JAVA highly concurrent technical and Jvm memory model.
 
-* 8 years of IOS / Android / React mobile terminal development and management, familiar with the development model and technology evolution of mobile products.
+* **8 years of IOS / Android / React ,** familiar with **SWIFT and in Objective-C, XCode, Git , CocoaPods , React , ReactNative ,** good IOS and Android application architecture design and APP indicators (Crash , performance, stability ) optimization.
 
-* 3 years of machine learning and Deep Learning Model , and data mining algorithms experience , familiar with Pytorch / PyCharm and related development frameworks embodiment such as ( Word2Vec , SVM , TextCNN , LSTM , Attention, Transfomer , GPT, BERT , LR, adBoost, PCA, SVD etc.), participated in some machine recommendation projects.
+* **3 years of machine learning and Deep Learning Model ,** and data mining algorithms experience , familiar with Pytorch / PyCharm and related development frameworks embodiment such as ( **Word2Vec , SVM , TextCNN , LSTM , Attention, Transfomer , GPT, BERT , LR, adBoost, PCA, SVD etc.),** participated in some machine recommendation projects.
 
 * involved more than the company's strategic-level goals to achieve, Ali RT-Mart into Alibaba's network transformation, providing an output strong technical and management oversight and confirm the project planning and operations management, team building and efforts to enhance team performance, was Responsible for the operation and management of a team of 40+ people.
 
-* specializes in large-scale data storage cluster Mysql , Mongo , FDS, big data engine the Spark , elasticsearch such as cluster performance optimization, index and load balancing, good Twemproxy Redis cache cluster development , specializes in giant traffic ( one hundred million / day ) business management cluster / clipping / Shunt, good at operation, maintenance and tuning of linux series systems and development of automated scripts and have rich experience .
+* specializes in large-scale data storage , **cluster Mysql , Redis, Mongo, FDS, Spark, elasticsearch,** such as cluster performance optimization, index and load balancing, good Twemproxy Redis cache cluster development , specializes in giant traffic ( one hundred million / day ) business management cluster / clipping / Shunt, good at operation, maintenance and tuning of linux series systems and development of automated scripts and have rich experience .
 
-* skilled use of cloud computing technology, such as docker, K8s cluster management, the key is in today use Ali cloud resources to achieve project cluster virtualization, virtualization main cluster web gateway , mysqlMHA , RedisCluster , Kafka used to live , MQ , Deep Net neural network and other computing resources.
+* skilled use of cloud computing technology, such as **Docker, K8s Cluster,** the key is in today use Ali cloud resources to achieve project cluster virtualization, **virtualization main cluster web gateway , mysqlMHA , RedisCluster , Kafka used to live , MQ , Deep Net ,** neural network and other computing resources.
 
-* It is used in the project to design recommendation scenarios for e-commerce. Based on the sequence recommendation model of Bert4Rec , the user's historical click information is used as the input behavior sequence, and the Mask LM task is used to train massive user behavior sequences. Under the real data set, Model recommendation accuracy rate reaches 85%.
-
-* familiar with SWIFT and in Objective-C, XCode, Git , CocoaPods , React , ReactNative good IOS and Android application architecture design and APP indicators (Crash , performance, stability ) optimization.
+* It is used in the project to design recommendation scenarios for e-commerce. Based on the **sequence recommendation model of Bert4Rec ,** the user's historical click information is used as the input behavior sequence, and the Mask LM task is used to train massive user behavior sequences. Under the real data set, Model recommendation accuracy rate reaches 85%.
 
 work experience
 ===============

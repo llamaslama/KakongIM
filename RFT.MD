@@ -31,11 +31,11 @@ A Brief Summary of My Experience
 
 * Graduate from Hubei Polytechnic University graduate / Bachelor
 
-* 12 years of Internet industry development and management experience , worked for Yihaodian, Ali RT-Mart and other well-known Internet companies, have an intimate knowledge of Internet product development processes, familiar with JAVA highly concurrent technical and Jvm memory model.
+* 12 years of development and management experience , worked for Yihaodian, Ali RT-Mart and other well-known Internet companies, have an intimate knowledge of Internet product development processes, familiar with JAVA highly concurrent technical and Jvm memory model.
 
 * 8 years of IOS / Android / React mobile terminal development and management, familiar with the development model and technology evolution of mobile products.
 
-* 3 years of machine learning and Deep Learning Model , and data mining algorithms experience , familiar with Pytorch / PyCharm and related development frameworks embodiment such as ( LSTM , BERT , self-attention, Transfomer , Word2Vec , SVM , TextCNN , LR, GDBT, adBoost, PCA, SVD etc.), participated in some machine recommendation projects.
+* 3 years of machine learning and Deep Learning Model , and data mining algorithms experience , familiar with Pytorch / PyCharm and related development frameworks embodiment such as ( Word2Vec , SVM , TextCNN , LSTM , Attention, Transfomer , GPT, BERT , LR, adBoost, PCA, SVD etc.), participated in some machine recommendation projects.
 
 * involved more than the company's strategic-level goals to achieve, Ali RT-Mart into Alibaba's network transformation, providing an output strong technical and management oversight and confirm the project planning and operations management, team building and efforts to enhance team performance, was Responsible for the operation and management of a team of 40+ people.
 
